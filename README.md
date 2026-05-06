@@ -127,12 +127,13 @@ I care about production-grade rigor: every project I ship includes infrastructur
 
 ---
 
-### 📈 GitHub stats
+### 📈 Activity snapshot
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=johnkounelis&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnkounelis&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
+- 🚀 **5 public repositories** spanning TypeScript, Python, and Java
+- 🛠️ **4 production-grade personal projects** with live deployments and DevSecOps pipelines
+- ☁️ **Cloud-native** mindset — every project ships with infrastructure as code, CI/CD, and observability
+- 📚 Currently preparing for **AWS Certified Cloud Practitioner** and **HashiCorp Certified: Terraform Associate**
+- 🌍 Open to **remote roles across Europe** — junior Cloud / DevOps / Full-Stack
 
 ---
 
