@@ -14,7 +14,7 @@
 
 ### About me
 
-I am a Computer Science graduate (BSc Hons, University of East London) and self-driven Software Engineer who designs, builds, and operates cloud-native, full-stack applications end-to-end. My work spans TypeScript / Python / Java backends, React / Next.js frontends, PostgreSQL data layers, and AWS infrastructure provisioned with Terraform — wired up with Docker, Kubernetes, GitHub Actions CI/CD pipelines, and OpenTelemetry observability.
+I am a Computer Science graduate (BSc Hons, University of East London)  Software Engineer who designs, builds, and operates cloud-native, full-stack applications end-to-end. My work spans TypeScript / Python / Java backends, React / Next.js frontends, PostgreSQL data layers, and AWS infrastructure provisioned with Terraform — wired up with Docker, Kubernetes, GitHub Actions CI/CD pipelines, and OpenTelemetry observability.
 
 I care about production-grade rigor: every project I ship includes infrastructure as code, security scanning, observability, automated testing, and a working CI/CD pipeline.
 
