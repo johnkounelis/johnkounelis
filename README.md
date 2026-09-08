@@ -120,7 +120,6 @@ I care about production-grade rigor: every project I ship includes infrastructur
 
 ### 📚 Currently learning
 
-- **AWS Certified Cloud Practitioner** — preparing for the certification
 - **HashiCorp Certified: Terraform Associate** — preparing for the certification
 - Diving deeper into platform engineering, SRE practices, and observability tooling
 
