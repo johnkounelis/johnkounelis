@@ -18,7 +18,6 @@ I am a Computer Science graduate (BSc Hons, University of East London)  Software
 
 I care about production-grade rigor: every project I ship includes infrastructure as code, security scanning, observability, automated testing, and a working CI/CD pipeline.
 
-📍 Based in Patra, Greece. Looking for a junior **Cloud / DevOps / Full-Stack** role — fully remote, anywhere in Europe.
 
 ---
 
