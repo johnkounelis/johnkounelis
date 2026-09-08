@@ -139,8 +139,6 @@ I care about production-grade rigor: every project I ship includes infrastructur
 
 ### 📫 Get in touch
 
-Looking for **Junior Cloud / DevOps / Full-Stack Engineer** roles, fully remote, anywhere in Europe. EU work-authorized, available immediately.
-
 [![Email](https://img.shields.io/badge/-j.kunelis@outlook.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:j.kunelis@outlook.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gianniskounelis)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-1F3A5F?style=flat-square&logo=githubpages&logoColor=white)](https://johnkounelis.github.io)
