@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Giannis 👋</h1>
 
 <p align="center">
-  <em>Junior Software Engineer · Cloud / DevOps / Full-Stack · Open to remote roles across Europe</em>
+  <em>Junior Software Engineer · Cloud / DevOps / Full-Stack ·</em>
 </p>
 
 <p align="center">
@@ -128,7 +128,7 @@ I care about production-grade rigor: every project I ship includes infrastructur
 ### 📈 Activity snapshot
 
 - 🚀 **5 public repositories** spanning TypeScript, Python, and Java
-- 🛠️ **4 production-grade personal projects** with live deployments and DevSecOps pipelines
+- 🛠️ **4 production-grade projects** with live deployments and DevSecOps pipelines
 - ☁️ **Cloud-native** mindset — every project ships with infrastructure as code, CI/CD, and observability
 - 📚 Currently preparing for **AWS Certified Cloud Practitioner** and **HashiCorp Certified: Terraform Associate**
 - 🌍 Open to **remote roles across Europe** — junior Cloud / DevOps / Full-Stack
